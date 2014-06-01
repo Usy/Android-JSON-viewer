@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JSON Viewer</string>
+    <string name="title">Title</string>
+    <string name="reload">Reload</string>
+    <string name="reloading">Reloading…</string>
+    <string name="opening">Opening…</string>
+    <string name="connection_error">Connection error</string>
+    <string name="available_elements">Available elements</string>
+</resources>
